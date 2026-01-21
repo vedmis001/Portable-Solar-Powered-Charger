@@ -5,8 +5,8 @@ Solar Panel Dims:
 CN3065 Dims:
 2cm x 4cm
 
-Need to check on battery, LCD, arduino
-
+LCD Dims:
+72mm by 25mm
 
 ACS712 Dims:
 31mm x 13mm
